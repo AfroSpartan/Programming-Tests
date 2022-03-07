@@ -1,0 +1,25 @@
+{
+  "profiles": {
+    "WSL": {
+      "commandName": "WSL2",
+      "environmentVariables": {},
+      "distributionName": ""
+    },
+    "CloneAndDisplayHistory": {
+      "commandName": "Project",
+      "commandLineArgs": "clone https://github.com/github/platform-samples.git 5"
+    },
+    "CreateAppAndRepo": {
+      "commandName": "Project",
+      "commandLineArgs": "create NewApplication \"Initial Commit\""
+    },
+    "DisplayHelpTextForAll": {
+      "commandName": "Project",
+      "commandLineArgs": "help"
+    },
+    "DisplayHelpTextForClone": {
+      "commandName": "Project",
+      "commandLineArgs": "help clone"
+    }
+  }
+}

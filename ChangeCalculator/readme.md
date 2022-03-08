@@ -6,7 +6,9 @@ Develop an application that given a UK Currency amount and the purchase price of
 
 Given £20 and a product price of £5.50, the application will output (displayed within the console):
 
+```
 Your change is:
 1 x £10
 2 x £2
 1 x 50p
+```
